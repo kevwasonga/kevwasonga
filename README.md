@@ -6,9 +6,9 @@ Welcome to my GitHub! I'm a passionate software engineer with a deep interest in
 
 ## 🚀 Current Focus
 
-- 🔧 **Forum** — a full-stack social media platform with live chat, built with Go and WebSockets.
+- 🔧 **Forum**  a full-stack social media platform with live chat, built with Go and WebSockets.
 - 🦀 Learning **Rust Lifetimes**  diving deep into ownership, borrowing, and memory safety.
-- 🔐 Exploring **Pen Testing & Red Teaming** — looking to sharpen my offensive security skills.  
+- 🔐 Exploring **Pen Testing & Red Teaming**  looking to sharpen my offensive security skills.  
   If you're in cyber offense, I'm all ears,  let’s connect.
 
 
@@ -51,6 +51,6 @@ Welcome to my GitHub! I'm a passionate software engineer with a deep interest in
 
 [![](https://visitcount.itsvg.in/api?id=kevwasonga&icon=0&color=0)](https://visitcount.itsvg.in)
 
-“Code is poetry — I just want mine to hit the right rhythm.”
+“Code is poetry  I just want mine to hit the right rhythm.”
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
