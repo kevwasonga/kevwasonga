@@ -18,6 +18,7 @@ Welcome to my GitHub! I'm a passionate software engineer with a deep interest in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-wasonga-3a9050317/)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kevol_)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinwasonga116@gmail.com)
+[![DEV](https://img.shields.io/badge/DEV-%23000000.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/kevwasonga)
 
 
 
